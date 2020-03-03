@@ -1,6 +1,6 @@
 //Main Activity
 
-package com.example.myapplication;
+package com.example.lab3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
 //Second Activity
 
-package com.example.myapplication;
+package com.example.lab3;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
