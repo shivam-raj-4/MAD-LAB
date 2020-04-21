@@ -19,5 +19,7 @@ public class ActivityB extends PreferenceActivity {
 protected void onCreate(Bundle savedInstanceState) {
 super.onCreate(savedInstanceState);
 //setContentView(R.layout.activity_layout_b);
-addPreferencesFromResource(R.xml.mypreferences);}
+addPreferencesFromResource(R.xml.mypreferences);
 }
+}
+
